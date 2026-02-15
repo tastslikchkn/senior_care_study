@@ -22,3 +22,5 @@
 [Senior care study repository](https://github.com/tastslikchkn/senior_care_study.git)
 1. This is the repo for the senior care study, temporary storage location.
 
+## Google Notebook LM
+[Google Notebook LM](https://notebooklm.google.com/)
