@@ -7,6 +7,7 @@
 
 ## R and RStudio Setup
 [Download & install R interpreter](https://posit.co/download/rstudio-desktop/)
+
 [Download & Install RStudio Desktop](https://posit.co/download/rstudio-desktop/)
 
 ## R Tools Installation
